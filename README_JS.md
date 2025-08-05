@@ -62,8 +62,8 @@ cd calculadora-orcamento-js
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seunome)  
-Entre em contato pelo [LinkedIn](https://linkedin.com/in/seunome)
+Desenvolvido por [Seu Nome](https://github.com/dysouza)  
+Entre em contato pelo [LinkedIn](https://linkedin.com/in/felipedesouzasantos)
 
 ---
 
