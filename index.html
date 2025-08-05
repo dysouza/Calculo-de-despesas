@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora de Orçamento Pessoal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>💰 Calculadora de Orçamento Pessoal</h1>
+
+    <form id="expense-form">
+      <input type="text" id="description" placeholder="Descrição" required />
+      <input type="number" id="amount" placeholder="Valor (R$)" required />
+      <button type="submit">Adicionar</button>
+    </form>
+
+    <ul id="expense-list"></ul>
+
+    <div class="total">
+      <strong>Total: R$ <span id="total">0.00</span></strong>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
